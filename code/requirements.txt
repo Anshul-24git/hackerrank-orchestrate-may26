@@ -1,0 +1,2 @@
+# No third-party dependencies.
+# The support triage agent uses only the Python standard library.
